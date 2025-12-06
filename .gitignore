@@ -1,0 +1,17 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Keys
+*.pem
+*.key
+*.cert
+
+# Aman Headers
+crates/aman/aman.h
+aman.h
+
+# Tools
+**/.vs/
+**/*.vscode/

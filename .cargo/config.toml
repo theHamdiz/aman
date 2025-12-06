@@ -1,0 +1,2 @@
+[alias]
+xaman = "run --package xaman --"
