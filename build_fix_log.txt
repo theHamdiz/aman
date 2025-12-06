@@ -1,5 +1,0 @@
-warning: hard linking files in the incremental compilation cache failed. copying files instead. consider moving the cache directory to a file system which supports hard linking in session dir `\\?\D:\Dev\Zed\aman\target\debug\incremental\xaman-3qe5xj99z3prc\s-hdnuakiqkj-1qlcjiy-working`
-
-warning: `xaman` (bin "xaman") generated 1 warning
-   Compiling aman v0.1.0 (D:\Dev\Zed\aman\crates\aman)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 2.12s
