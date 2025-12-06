@@ -9,5 +9,3 @@ pub mod utils;
 pub mod crypto;
 pub mod engine;
 
-#[cfg(test)]
-mod engine_tests;

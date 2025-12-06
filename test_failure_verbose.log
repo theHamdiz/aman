@@ -1,0 +1,206 @@
+       Fresh cfg-if v1.0.4
+       Fresh unicode-ident v1.0.22
+       Fresh windows-link v0.2.1
+       Fresh zeroize v1.8.2
+       Fresh version_check v0.9.5
+       Fresh const-oid v0.9.6
+       Fresh subtle v2.6.1
+       Fresh getrandom v0.2.16
+       Fresh base64ct v1.8.0
+       Fresh autocfg v1.5.0
+       Fresh ryu v1.0.20
+       Fresh memchr v2.7.6
+       Fresh itoa v1.0.15
+       Fresh semver v1.0.27
+       Fresh base16ct v0.2.0
+       Fresh find-msvc-tools v0.1.5
+       Fresh cpufeatures v0.2.17
+       Fresh bitflags v1.3.2
+       Fresh shlex v1.3.0
+       Fresh anstyle v1.0.13
+       Fresh utf8parse v0.2.2
+       Fresh once_cell_polyfill v1.70.2
+       Fresh windows-sys v0.61.2
+       Fresh rand_core v0.6.4
+       Fresh pem-rfc7468 v0.7.0
+       Fresh rustc_version v0.4.1
+       Fresh cc v1.2.48
+       Fresh anstyle-parse v0.2.7
+       Fresh is_terminal_polyfill v1.70.2
+       Fresh os_str_bytes v6.6.1
+       Fresh colorchoice v1.0.4
+       Fresh fastrand v2.3.0
+       Fresh hashbrown v0.12.3
+       Fresh once_cell v1.21.3
+       Fresh clap_lex v0.7.6
+       Fresh heck v0.5.0
+       Fresh proc-macro2 v1.0.103
+       Fresh typenum v1.19.0
+       Fresh der v0.7.10
+       Fresh ff v0.13.1
+       Fresh winapi-util v0.1.11
+       Fresh serde_core v1.0.228
+       Fresh getrandom v0.3.4
+       Fresh anstyle-wincon v3.0.11
+       Fresh anstyle-query v1.1.5
+       Fresh clap_lex v0.2.4
+       Fresh strsim v0.11.1
+       Fresh strsim v0.10.0
+       Fresh constant_time_eq v0.3.1
+       Fresh arrayvec v0.7.6
+       Fresh arrayref v0.3.9
+       Fresh hex v0.4.3
+       Fresh log v0.4.29
+       Fresh quote v1.0.42
+       Fresh generic-array v0.14.9
+       Fresh spki v0.7.3
+       Fresh group v0.13.0
+       Fresh termcolor v1.4.1
+       Fresh crossbeam-utils v0.8.21
+       Fresh indexmap v1.9.3
+       Fresh atty v0.2.14
+       Fresh anstream v0.6.21
+       Fresh serde_json v1.0.145
+       Fresh either v1.15.0
+       Fresh heck v0.4.1
+       Fresh ciborium-io v0.2.2
+       Fresh regex-syntax v0.8.8
+       Fresh plotters-backend v0.3.7
+       Fresh same-file v1.0.6
+       Fresh unicode-width v0.2.2
+       Fresh cast v0.3.0
+       Fresh smallvec v1.15.1
+       Fresh syn v2.0.111
+       Fresh crypto-common v0.1.6
+       Fresh block-buffer v0.10.4
+       Fresh pkcs8 v0.10.2
+       Fresh crypto-bigint v0.5.5
+       Fresh syn v1.0.109
+       Fresh clap v3.2.25
+       Fresh crossbeam-epoch v0.9.18
+       Fresh clap_builder v4.5.53
+       Fresh plotters-svg v0.3.7
+       Fresh num-traits v0.2.19
+       Fresh regex-automata v0.4.13
+       Fresh itertools v0.10.5
+       Fresh windows_x86_64_msvc v0.52.6
+       Fresh windows_x86_64_msvc v0.53.1
+       Fresh scopeguard v1.2.0
+       Fresh walkdir v2.5.0
+       Fresh is-terminal v0.4.17
+       Fresh rustc-demangle v0.1.26
+       Fresh oorandom v11.1.5
+       Fresh memmap2 v0.9.9
+       Fresh anes v0.1.6
+       Fresh tempfile v3.23.0
+       Fresh thread_local v1.1.9
+       Fresh encode_unicode v1.0.0
+       Fresh equivalent v1.0.2
+       Fresh digest v0.10.7
+       Fresh serde_derive v1.0.228
+       Fresh zerocopy-derive v0.8.31
+       Fresh sec1 v0.7.3
+       Fresh curve25519-dalek-derive v0.1.1
+       Fresh clap_derive v4.5.49
+       Fresh thiserror-impl v1.0.69
+       Fresh crossbeam-deque v0.8.6
+       Fresh parking_lot_core v0.9.12
+       Fresh plotters v0.3.7
+       Fresh windows-targets v0.52.6
+       Fresh winapi v0.3.9
+       Fresh anyhow v1.0.100
+       Fresh lock_api v0.4.14
+       Fresh regex v1.12.2
+       Fresh criterion-plot v0.5.0
+       Fresh windows-targets v0.53.5
+       Fresh backtrace v0.3.76
+       Fresh byteorder v1.5.0
+       Fresh unicode-segmentation v1.12.0
+       Fresh unicode-linebreak v0.1.5
+       Fresh unicode-width v0.1.14
+       Fresh is_ci v1.2.0
+       Fresh hashbrown v0.16.1
+       Fresh fuzzy-matcher v0.3.7
+       Fresh miette-derive v7.6.0
+       Fresh xshell-macros v0.2.7
+       Fresh supports-hyperlinks v3.1.0
+       Fresh bitflags v2.10.0
+       Fresh zerocopy v0.8.31
+       Fresh signature v2.2.0
+       Fresh hmac v0.12.1
+       Fresh elliptic-curve v0.13.8
+       Fresh sha2 v0.10.9
+       Fresh curve25519-dalek v4.1.3
+       Fresh serde v1.0.228
+       Fresh blake3 v1.8.2
+       Fresh clap v4.5.53
+       Fresh thiserror v1.0.69
+       Fresh rayon-core v1.13.0
+       Fresh windows-sys v0.59.0
+       Fresh crossterm_winapi v0.9.1
+       Fresh parking_lot v0.12.5
+       Fresh windows-sys v0.60.2
+       Fresh libc v0.2.178
+       Fresh indexmap v2.12.1
+       Fresh backtrace-ext v0.2.1
+       Fresh newline-converter v0.3.0
+       Fresh owo-colors v4.2.3
+       Fresh textwrap v0.16.2
+       Fresh supports-color v3.0.2
+       Fresh portable-atomic v1.11.1
+       Fresh fxhash v0.2.1
+       Fresh number_prefix v0.4.0
+       Fresh toml_write v0.1.2
+       Fresh toml_datetime v0.6.11
+       Fresh dyn-clone v1.0.20
+       Fresh supports-unicode v3.0.0
+       Fresh winnow v0.7.14
+       Fresh xshell v0.2.7
+       Fresh rfc6979 v0.4.0
+       Fresh ppv-lite86 v0.2.21
+       Fresh primeorder v0.13.6
+       Fresh ed25519 v2.2.3
+       Fresh toml v0.5.11
+       Fresh half v2.7.1
+       Fresh tinytemplate v1.2.1
+       Fresh rayon v1.11.0
+       Fresh console v0.15.11
+       Fresh crossterm v0.25.0
+       Fresh terminal_size v0.4.3
+       Fresh toml_edit v0.22.27
+       Fresh rand_chacha v0.3.1
+       Fresh ecdsa v0.16.9
+       Fresh ed25519-dalek v2.2.0
+       Fresh cbindgen v0.26.0
+       Fresh ciborium-ll v0.2.2
+       Fresh miette v7.6.0
+       Fresh inquire v0.7.5
+       Fresh indicatif v0.17.11
+       Fresh p256 v0.13.2
+       Fresh rand v0.8.5
+       Fresh ciborium v0.2.2
+       Fresh xaman v0.1.0 (D:\Dev\Zed\aman\xaman)
+   Compiling aman v0.1.0 (D:\Dev\Zed\aman\crates\aman)
+       Fresh criterion v0.5.1
+       Dirty aman-core v0.1.0 (D:\Dev\Zed\aman\crates\aman-core): the file `crates\aman-core\src\engine_tests.rs` is missing
+   Compiling aman-core v0.1.0 (D:\Dev\Zed\aman\crates\aman-core)
+     Running `D:\Dev\Zed\aman\target\debug\build\aman-382d3e297641eb1c\build-script-build`
+     Running `C:\Users\conta\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name aman_core --edition=2021 crates\aman-core\src\lib.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --emit=dep-info,link -C embed-bitcode=no -C debuginfo=2 --test --cfg "feature=\"blake3\"" --cfg "feature=\"default\"" --cfg "feature=\"ed25519\"" --cfg "feature=\"p256\"" --cfg "feature=\"std\"" --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values(\"blake3\", \"default\", \"ed25519\", \"p256\", \"std\"))" -C metadata=57ab668e79f708a3 -C extra-filename=-f319adc1b94501da --out-dir D:\Dev\Zed\aman\target\debug\deps -C incremental=D:\Dev\Zed\aman\target\debug\incremental -L dependency=D:\Dev\Zed\aman\target\debug\deps --extern blake3=D:\Dev\Zed\aman\target\debug\deps\libblake3-b969a0cb1b20deb7.rlib --extern ed25519_dalek=D:\Dev\Zed\aman\target\debug\deps\libed25519_dalek-8ccd9d241f75873e.rlib --extern hex=D:\Dev\Zed\aman\target\debug\deps\libhex-9df4edc9b3ecf041.rlib --extern p256=D:\Dev\Zed\aman\target\debug\deps\libp256-8fb602393bd20e16.rlib --extern rand=D:\Dev\Zed\aman\target\debug\deps\librand-5eed36480bff5677.rlib --extern serde=D:\Dev\Zed\aman\target\debug\deps\libserde-2c53ec1003d311ed.rlib --extern serde_json=D:\Dev\Zed\aman\target\debug\deps\libserde_json-cb41a41ab7c965ac.rlib --extern sha2=D:\Dev\Zed\aman\target\debug\deps\libsha2-dd142dc132aa687c.rlib -L native=D:\Dev\Zed\aman\target\debug\build\blake3-60394b48d5adbe9e\out -L native=D:\Dev\Zed\aman\target\debug\build\blake3-60394b48d5adbe9e\out -L "native=C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64" -L "native=C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64"`
+warning: hard linking files in the incremental compilation cache failed. copying files instead. consider moving the cache directory to a file system which supports hard linking in session dir `\\?\D:\Dev\Zed\aman\target\debug\incremental\aman_core-25q74qqssutxi\s-hdnuoqxu83-1rcgihr-working`
+
+error[E0583]: file not found for module `engine_tests`
+  --> crates\aman-core\src\lib.rs:13:1
+   |
+13 | mod engine_tests;
+   | ^^^^^^^^^^^^^^^^^
+   |
+   = help: to create the module `engine_tests`, create file "crates\aman-core\src\engine_tests.rs" or "crates\aman-core\src\engine_tests\mod.rs"
+   = note: if there is a `mod engine_tests` elsewhere in the crate already, import it with `use crate::...` instead
+
+For more information about this error, try `rustc --explain E0583`.
+warning: `aman-core` (lib test) generated 1 warning
+error: could not compile `aman-core` (lib test) due to 1 previous error; 1 warning emitted
+
+Caused by:
+  process didn't exit successfully: `C:\Users\conta\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name aman_core --edition=2021 crates\aman-core\src\lib.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --emit=dep-info,link -C embed-bitcode=no -C debuginfo=2 --test --cfg "feature=\"blake3\"" --cfg "feature=\"default\"" --cfg "feature=\"ed25519\"" --cfg "feature=\"p256\"" --cfg "feature=\"std\"" --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values(\"blake3\", \"default\", \"ed25519\", \"p256\", \"std\"))" -C metadata=57ab668e79f708a3 -C extra-filename=-f319adc1b94501da --out-dir D:\Dev\Zed\aman\target\debug\deps -C incremental=D:\Dev\Zed\aman\target\debug\incremental -L dependency=D:\Dev\Zed\aman\target\debug\deps --extern blake3=D:\Dev\Zed\aman\target\debug\deps\libblake3-b969a0cb1b20deb7.rlib --extern ed25519_dalek=D:\Dev\Zed\aman\target\debug\deps\libed25519_dalek-8ccd9d241f75873e.rlib --extern hex=D:\Dev\Zed\aman\target\debug\deps\libhex-9df4edc9b3ecf041.rlib --extern p256=D:\Dev\Zed\aman\target\debug\deps\libp256-8fb602393bd20e16.rlib --extern rand=D:\Dev\Zed\aman\target\debug\deps\librand-5eed36480bff5677.rlib --extern serde=D:\Dev\Zed\aman\target\debug\deps\libserde-2c53ec1003d311ed.rlib --extern serde_json=D:\Dev\Zed\aman\target\debug\deps\libserde_json-cb41a41ab7c965ac.rlib --extern sha2=D:\Dev\Zed\aman\target\debug\deps\libsha2-dd142dc132aa687c.rlib -L native=D:\Dev\Zed\aman\target\debug\build\blake3-60394b48d5adbe9e\out -L native=D:\Dev\Zed\aman\target\debug\build\blake3-60394b48d5adbe9e\out -L "native=C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64" -L "native=C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\atlmfc\lib\x64"` (exit code: 1)
+warning: build failed, waiting for other jobs to finish...
